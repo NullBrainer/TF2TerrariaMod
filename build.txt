@@ -1,0 +1,3 @@
+displayName = Team Fortress 2 Mod
+author = NullBrainer
+version = 0.1

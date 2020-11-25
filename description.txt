@@ -1,0 +1,5 @@
+A Mod featuring Valve's Team Fortress 2. This includes:
+Stock weapons
+Australiam variants of stock weapons.
+A custom npc.
+Mann vs Machine.
